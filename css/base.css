@@ -218,7 +218,7 @@ h5 {
   font-size: .85rem!important;
 }
 
-.twitter-link a {
+.social-icon-link a {
   color: #4a95cf;
   opacity: 0.92;
 }
@@ -250,7 +250,7 @@ h5 {
   margin-bottom: 25px;
 }
 
-.twitter-link a:hover {
+.social-icon-link a:hover {
   text-decoration: none!important;
 }
 
@@ -2722,11 +2722,11 @@ ul.rig.columns-5 li {
   content: '\F30E';
 }
 
-.entypo-social.google+:before {
+.entypo-social.googleplus:before {
   content: '\F30F';
 }
 
-.entypo-social.c-google+:before {
+.entypo-social.c-googleplus:before {
   content: '\F310';
 }
 
@@ -2800,6 +2800,10 @@ ul.rig.columns-5 li {
 
 .entypo-social.instagram:before {
   content: '\F32D';
+}
+
+.entypo-social.weibo:before {
+  content: '\F33F';
 }
 
 .pure-u-1,
